@@ -11,7 +11,7 @@ on:
   schedule:
     - cron: 0 20 * * *
   release:
-    types: [published]
+    types: [X86]
     
 permissions:
   contents: read
